@@ -1,0 +1,15 @@
+
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ô ¬šýÿÿÿÿ
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(’…èŸ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(æñê
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(×£î¸ýÿÿÿÿ
+Ysquid:S2147"DCombine this catch with the one at line 74, which has the same body.(ï­£Ä
+Dsquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥›Äíúÿÿÿÿ
+Hsquid:S1481".Remove this unused "startTime" local variable.(ÚÉŽ¬üÿÿÿÿ
+Fsquid:S1481",Remove this unused "endTime" local variable.(ŠâÖ¢ÿÿÿÿÿ

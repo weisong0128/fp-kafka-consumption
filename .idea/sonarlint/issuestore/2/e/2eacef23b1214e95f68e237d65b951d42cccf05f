@@ -1,0 +1,22 @@
+
+[squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Â«ºß
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(œËùœ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¹¤ðÀÿÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(éïÓŽÿÿÿÿÿ
+[squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+[squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(’…èŸ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ôÃþúþÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+<squid:S2438""Argument 1" is a "Thread".(€éÊŽúÿÿÿÿ8“ä¸à/
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(æË…€
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ðÌ¸¨ÿÿÿÿÿ

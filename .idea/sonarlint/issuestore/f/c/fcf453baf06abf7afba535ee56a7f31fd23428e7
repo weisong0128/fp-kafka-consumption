@@ -1,0 +1,5 @@
+
+Dsquid:S1068"0Remove this unused "CLIENT_COUNT" private field.(éºÏ)
+ksquid:S3008"WRename this field "CLIENT_COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éºÏ)
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ôƒ—Åÿÿÿÿÿ
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(’…èŸ

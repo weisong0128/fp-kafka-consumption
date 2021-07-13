@@ -1,0 +1,8 @@
+
+tsquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(×£î¸ýÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(æ»™Þúÿÿÿÿ
+nsquid:S3008"TRename this field "JAVA_HOME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„´äËýÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÞÙÁä
+Dsquid:S00108")Either remove or fill this block of code.(×ç„øÿÿÿÿ
